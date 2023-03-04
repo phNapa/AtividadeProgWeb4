@@ -3,7 +3,7 @@ import chalk from 'chalk'
 
 const prompt = PromptSync();
 
-let valor1 = Number(prompt("Digite o valor 1: "))
+let valor1 = Number(prompt("Digite o valorr 1: "))
 let valor2 = Number(prompt("Digite o valor 2: "))
 let valor3 = Number(prompt("Digite o valor 3: "))
 let valor4 = Number(prompt("Digite o valor 4: "))
